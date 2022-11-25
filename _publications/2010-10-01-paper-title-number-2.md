@@ -1,6 +1,6 @@
 ---
-title: "Paper Title Number 2"
-collection: workingpapers
+title: "Working Paper"
+collection: workingpaper
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This is a working paper.'
 date: 2011-10-01
